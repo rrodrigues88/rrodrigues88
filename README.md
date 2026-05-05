@@ -1,45 +1,80 @@
----
+# 👋 Olá, eu sou o Rodolfo Rodrigues
 
-# Olá, eu sou o Rodolfo Rodrigues 👋
+### 🚀 Full Stack Developer
 
-### Full Stack Developer
-
-Sou um desenvolvedor apaixonado por construir soluções web e mobile completas, do backend ao frontend. Atualmente, foco no ecossistema JavaScript (Node, React, Vue, Next) e Java (Spring Boot) para transformar ideias em software de alto impacto, performance e excelente experiência de usuário.
+Sou desenvolvedor focado em construir soluções web e mobile completas, atuando do backend ao frontend. Trabalho principalmente com o ecossistema JavaScript e Java, criando sistemas escaláveis, performáticos e com excelente experiência de usuário.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## 🧠 Sobre mim
 
-- **Linguagens:** JavaScript, Java.
-- **Frontend Web:** React.js, Next.js, Vue.js.
-- **Frontend Mobile:** React-Native.
-- **Backend:** Node.js, Express, Spring Boot.
+- 💻 Experiência com desenvolvimento Full Stack
+- ⚙️ Foco em APIs robustas e seguras
+- 🚀 Construção de sistemas reais em produção
+- 📈 Interesse em arquitetura, performance e escalabilidade
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🛠️ Tecnologias & Ferramentas
+
+**Linguagens:**  
+JavaScript • TypeScript • Java  
+
+**Frontend Web:**  
+React.js • Next.js • Vue.js  
+
+**Mobile:**  
+React Native  
+
+**Backend:**  
+Node.js • Express • Spring Boot  
+
+**Banco de Dados & ORM:**  
+MySQL • Prisma  
+
+**Outros:**  
+Docker • Git • REST APIs  
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rrodrigues88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrodrigues88&layout=pie&theme=dracula&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rrodrigues88&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrodrigues88&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=rrodrigues88&theme=tokyonight" />
 </p>
 
 ---
 
-### 🏗️ Projetos e Experiência
+## 🏗️ Projetos em Destaque
 
-- **Academy Smart:** Plataforma de gestão educacional completa. [www.academysmart.com.br](http://www.academysmart.com.br)
-  **Stack:** Full Stack.
+### 🎓 Academy Smart
+Plataforma completa de gestão educacional.
 
-- **Smart Trainner:** App web e mobile de gestão de treinos e alimentação.
-  **Stack:** Full Stack (Web e Mobile).
-
-- **Smart Ticket / Smart Web Sistemas:** Desenvolvimento Full Stack de sistema de gestão de vendas e bilheteria, com auditoria financeira e integração de pagamentos.
-  **Stack:** Node.js, React, Express.
+🔗 http://www.academysmart.com.br  
+**Stack:** Full Stack  
 
 ---
 
-### 📫 Conecte-se comigo
+### 💪 Smart Trainner
+Aplicação web e mobile para gestão de treinos e alimentação.
+
+**Stack:** Full Stack (Web e Mobile)  
+
+---
+
+### 🎟️ Smart Ticket / Smart Web Sistemas
+Sistema de gestão de vendas e bilheteria com auditoria financeira e integração de pagamentos.
+
+**Stack:** Node.js • React • Express  
+
+---
+
+## 📫 Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rodolfo-rodrigues-de-araujo-5a16a0408/" target="_blank">
@@ -55,4 +90,6 @@ Sou um desenvolvedor apaixonado por construir soluções web e mobile completas,
 
 ---
 
-> "Construindo o futuro, uma linha de código de cada vez." 🚀
+## 💡 Filosofia
+
+> "Construindo soluções reais, com código limpo, seguro e escalável." 🚀
