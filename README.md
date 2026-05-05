@@ -6,6 +6,13 @@ Sou desenvolvedor focado em construir soluções web e mobile completas, atuando
 
 ---
 
+## 🎓 Formação
+
+🎓 Acadêmico do curso de **Ciência da Computação**  
+📍 Universidade Federal do Ceará (UFC) - Campus Crateús  
+
+---
+
 ## 🧠 Sobre mim
 
 - 💻 Experiência com desenvolvimento Full Stack
