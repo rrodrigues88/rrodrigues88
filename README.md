@@ -63,7 +63,7 @@ Plataforma completa de gestão educacional.
 **Stack:** Full Stack  
 
 ### 🎓 Sistema de Indicações Imobiliarias
-Plataforma voltada para Imobiliária, Corretora, Clientes e Indicadores
+Plataforma voltada para Imobiliárias, Corretoras, Clientes e Indicadores
 
 🔗 https://programaindiqueeganhe.com/
 **Stack:** React - VueJs - Frontend
