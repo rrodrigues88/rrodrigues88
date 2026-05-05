@@ -42,7 +42,7 @@ Sou um desenvolvedor apaixonado por construir soluções web e mobile completas,
 ### 📫 Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rodolfo-rodrigues-de-araujo-5a16a0408/" target="_blank">
+  <a href="www.linkedin.com/in/rodolfo-rodrigues-de-araujo-5a16a0408" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rrodrigues.araujo88@gmail.com">
