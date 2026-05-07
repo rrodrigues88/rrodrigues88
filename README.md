@@ -60,7 +60,7 @@ Docker • Git • REST APIs
 Plataforma completa de gestão educacional.
 
 🔗 http://www.academysmart.com.br  
-**Stack:** Full Stack  
+**Stack:** Full Stack  React (TypeScript) - Node (TypeScript)
 
 ---
 
@@ -75,7 +75,7 @@ Plataforma voltada para Imobiliárias, Corretoras, Clientes e Indicadores
 ### 💪 Smart Trainner
 Aplicação web e mobile para gestão de treinos e alimentação.
 
-**Stack:** Full Stack (Web e Mobile)  
+**Stack:** Full Stack React-Native (Expo)(Web e Mobile) - Node - (TypeScript - express)
 
 ---
 
