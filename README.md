@@ -62,6 +62,8 @@ Plataforma completa de gestão educacional.
 🔗 http://www.academysmart.com.br  
 **Stack:** Full Stack  
 
+---
+
 ### 🏨 Sistema de Indicações Imobiliarias
 Plataforma voltada para Imobiliárias, Corretoras, Clientes e Indicadores
 
